@@ -66,13 +66,17 @@ MODEL GRAPH:
 
 Program
 
+<img width="970" height="557" alt="image" src="https://github.com/user-attachments/assets/05929174-988a-4b1b-81fd-962b928cd526" />
+
 
 Output Waveform
 
+<img width="1604" height="996" alt="image" src="https://github.com/user-attachments/assets/57a71e27-259f-476b-a83d-705ca3c4771f" />
 
 
 Tabulation
 
+<img width="1701" height="905" alt="image" src="https://github.com/user-attachments/assets/96593fbd-3221-4ba0-93b9-d4748c346fe6" />
 
 
 Calculation
