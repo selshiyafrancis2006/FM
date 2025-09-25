@@ -66,17 +66,23 @@ MODEL GRAPH:
 
 Program
 
+<img width="963" height="549" alt="image" src="https://github.com/user-attachments/assets/bbbb9108-8ceb-4fdd-9ffd-2a9ccab7a517" />
+
+
 
 Output Waveform
 
+<img width="1604" height="996" alt="image" src="https://github.com/user-attachments/assets/ab389bb0-9b98-4824-936b-75edf8e9c5c6" />
 
 
 Tabulation
 
+<img width="1701" height="905" alt="image" src="https://github.com/user-attachments/assets/1e5574a0-02b8-4c79-ba6e-95f95f57b521" />
 
 
 Calculation
 
+<img width="1711" height="856" alt="image" src="https://github.com/user-attachments/assets/4cab5080-50a4-4417-9cc4-72835ae4f3c9" />
 
 
 Frequency Deviation Practical = 
